@@ -7,6 +7,11 @@ namespace TP_Tarjeta_Mauri
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+
+
+
+
         }
     }
 }
