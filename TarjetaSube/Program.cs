@@ -223,7 +223,7 @@ namespace TarjetaSube
                 Boleto? boleto = colectivo.PagarCon(miTarjeta);
                 if (boleto != null)
                 {
-                    Console.WriteLine($"\nViaje {i}:");
+                    Console.WriteLine($"\n Viaje {i}:");
                     Console.WriteLine($"  Línea: {boleto.LineaColectivo}");
                     Console.WriteLine($"  Monto pagado: ${boleto.Monto}");
                     Console.WriteLine($"  Saldo restante: ${boleto.SaldoRestante}");

@@ -42,8 +42,7 @@
               "RelativeToolTip": "TarjetaSube\\Colectivo.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T19:32:42.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T19:32:42.43Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "TarjetaSube\\Boleto.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAgwCsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T19:32:12.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T19:32:12.001Z"
             },
             {
               "$type": "Document",
@@ -66,7 +64,7 @@
               "RelativeDocumentMoniker": "TarjetaSube\\Program.cs",
               "ToolTip": "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\mauri\\tarjeta\\TarjetaSube\\Program.cs",
               "RelativeToolTip": "TarjetaSube\\Program.cs",
-              "ViewState": "AgIAAOUAAAAAAAAAAAAwwO4AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAgwLQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T19:31:45.359Z",
               "EditorCaption": ""
@@ -81,8 +79,7 @@
               "RelativeToolTip": "TarjetaSube\\Tarjeta.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T19:26:16.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T19:26:16.027Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "TarjetaSubeTest\\UnitTest1.cs",
               "ViewState": "AgIAAFMAAAAAAAAAAAAuwBEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T19:01:56.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T19:01:56.134Z"
             }
           ]
         }
